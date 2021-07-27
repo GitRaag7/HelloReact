@@ -24,7 +24,7 @@ function App() {
   ];
   return (
     <div className="expenses">
-      {/* Expenses component */}
+      {/* Expenses components */}
       <Expenses exp={expenses} />
     </div>
   );
