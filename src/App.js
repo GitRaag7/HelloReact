@@ -24,6 +24,7 @@ function App() {
   ];
   return (
     <div className="expenses">
+      {/* Expense component */}
       <Expenses exp={expenses} />
     </div>
   );
